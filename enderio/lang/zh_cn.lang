@@ -402,11 +402,11 @@ tile.block_holier_fog.tooltip.detailed.line2=一个荧石纳米颗粒可以覆�
 tile.block_holier_fog.tooltip.detailed.line3=有几率对§l亡灵生物§r§6造成伤害。会被液体和雨水洗掉。
 
 tile.block_infinity_0.name=基岩粉块
-tile.block_infinity_0.tooltip.common.line1=并不能算作固体
+tile.block_infinity_0.tooltip.common.line1=不太坚固
 tile.block_infinity_1.name=压缩基岩粉块
-tile.block_infinity_1.tooltip.common.line1=并不能算作固体
+tile.block_infinity_1.tooltip.common.line1=不太坚固
 tile.block_infinity_2.name=二重压缩基岩粉块
-tile.block_infinity_2.tooltip.common.line1=并不能算作固体
+tile.block_infinity_2.tooltip.common.line1=不太坚固
 
 tile.block_alloy.name=合金块
 tile.block_alloy.conductive_iron.name=导电铁块
@@ -741,7 +741,7 @@ enderio.config.fluid=流体设置
 enderio.config.fluid.tooltip=纯净的液态能量！
 
 enderio.config.enchanter=附魔器
-enderio.config.enchantments=附魔
+enderio.config.enchantments=魔咒
 #enderio.config.hoes=Hoes for Farming Station
 enderio.config.misc=其他设置
 enderio.config.rod=折返权杖
@@ -798,13 +798,13 @@ enderio.config.blocks.charges.ender=末影炸药
 
 
 enchantment.enderio.soulbound=灵魂绑定
-description.enchantment.enderio.soulbound=使物品免于死亡掉落丨注意：多数墓碑模组非常愚蠢导致该附魔无法正常工作！
+description.enchantment.enderio.soulbound=使物品免于死亡掉落丨注意：多数墓碑模组非常愚蠢导致该魔咒无法正常工作！
 enchantment.enderio.witherarrow=凋亡
 description.enchantment.enderio.witherarrow=给予目标凋零效果丨适用于弓
 enchantment.enderio.witherweapon=腐烂
 description.enchantment.enderio.witherweapon=给予目标凋零效果丨适用于近战武器
 enchantment.enderio.repellent=驱散传送
-description.enchantment.enderio.repellent=有可能将攻击者传送走丨越高级的附魔，传送的几率越高、（距离使用者）越远
+description.enchantment.enderio.repellent=有可能将攻击者传送走丨越高级的魔咒，传送的几率越高、（距离使用者）越远
 enchantment.enderio.shimmer=微光
 description.enchantment.enderio.shimmer=给物品材质加上附魔光效。丨仅此而已。丨真的。丨没别的用处了。丨对，这没啥用。丨我知道。
 
