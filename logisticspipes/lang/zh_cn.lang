@@ -268,10 +268,10 @@ item.logisticspipes.upgrade_item_stack_extraction.name=批量物品抽取升级
 
 #Upgrade info
 
-item.upgrade.info.both1=可安装于 $YELLOW{0}$RESET$GRAY 管道
-item.upgrade.info.both2=以及 $YELLOW{0}$RESET$GRAY 模块
-item.upgrade.info.pipe=可安装于 $YELLOW{0}$RESET$GRAY 种管道
-item.upgrade.info.module=可安装于 $YELLOW{0}$RESET$GRAY 种模块
+item.upgrade.info.both1=可安装于$YELLOW{0}$RESET$GRAY管道
+item.upgrade.info.both2=以及$YELLOW{0}$RESET$GRAY模块
+item.upgrade.info.pipe=可安装于$YELLOW{0}$RESET$GRAY管道
+item.upgrade.info.module=可安装于$YELLOW{0}$RESET$GRAY模块
 item.upgrade.info.all=全部
 item.upgrade.info.crafting=合成
 item.upgrade.info.provider=供应
@@ -282,6 +282,8 @@ item.upgrade.info.supplier=补给
 item.upgrade.info.requestblock=请求方块
 item.upgrade.info.chassis=底盘
 item.upgrade.info.basic=基础
+item.upgrade.info.connect_symbol=、
+item.upgrade.info.and=以及
 
 # Blocks
 tile.logisticspipes.frame.name=物流方块框架
