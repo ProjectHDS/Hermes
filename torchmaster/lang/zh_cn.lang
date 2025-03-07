@@ -1,0 +1,10 @@
+tile.torchmaster.feral_flare_lantern.name=Feral Flare Lantern
+item.torchmaster.frozen_pearl.name=Frozen Pearl
+tile.torchmaster.feral_flare_lantern.tooltip=Slowly illuminates a large area. Removing the lantern causes the lights to slowly decay.
+item.torchmaster.frozen_pearl.tooltip=Clears residual lights from a Feral Flare Lantern.
+gui.torchmaster.feral_flare_lantern.state.los_on.short=Line of Sight: §Aenabled§r
+gui.torchmaster.feral_flare_lantern.state.los_on.description=The lantern will only place lights $n at locations it can directly see
+gui.torchmaster.feral_flare_lantern.state.los_off.short=Line of Sight: §Cdisabled§r
+gui.torchmaster.feral_flare_lantern.state.los_off.description=The lantern will place lights everywhere
+command.torchmaster.entity_dump.completed=Entities have been dumped to the log file.
+command.torchmaster.torch_list.completed=Torches have been dumped to the log file.

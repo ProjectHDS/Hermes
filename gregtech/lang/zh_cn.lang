@@ -1,0 +1,59 @@
+# Naquadah Fix
+gregtech.multiblock.electric_blast_furnace.description=电力高炉（EBF）是种用来熔炼合金、熔化金属或冶炼矿石的多方块结构。也可用于获取高级的合金和金属，例如铝、不锈钢、钛或纳夸达合金。
+for.bees.species.naquadah=纳夸达
+for.bees.species.naquadria=超能纳夸达
+metaitem.credit.naquadah.name=纳夸达币
+metaitem.battery.hull.zpm.name=中型超能纳夸达电池外壳
+metaitem.battery.hull.uv.name=大型超能纳夸达电池外壳
+metaitem.battery.zpm.naquadria.name=中型超能纳夸达电池
+metaitem.battery.uv.naquadria.name=大型超能纳夸达电池
+metaitem.boule.naquadah.name=纳夸达掺杂的单晶硅
+metaitem.wafer.naquadah.name=纳夸达掺杂的晶圆
+gregtech.material.naquadah=纳夸达
+gregtech.material.naquadah_enriched=富集纳夸达
+gregtech.material.naquadria=超能纳夸达
+gregtech.material.uranium_rhodium_dinaquadide=铀铑纳夸达合金
+gregtech.material.enriched_naquadah_trinium_europium_duranide=富集纳夸达凯金铕铿铀合金
+gregtech.material.enriched_naquadah_sulfate=硫酸富集纳夸达
+gregtech.material.naquadria_sulfate=硫酸超能纳夸达
+gregtech.material.impure_enriched_naquadah_solution=含杂富集纳夸达溶液
+gregtech.material.enriched_naquadah_solution=富集纳夸达溶液
+gregtech.material.acidic_enriched_naquadah_solution=酸性富集纳夸达溶液
+gregtech.material.enriched_naquadah_waste=富集纳夸达废液
+gregtech.material.impure_naquadria_solution=含杂超能纳夸达溶液
+gregtech.material.naquadria_solution=超能纳夸达溶液
+gregtech.material.acidic_naquadria_solution=酸性超能纳夸达溶液
+gregtech.material.naquadria_waste=超能纳夸达废液
+gregtech.material.naquadah_alloy=纳夸达合金
+tile.wire_coil.naquadah.name=纳夸达线圈方块
+gregtech.advancement.ludicrous_voltage.65_naquadah.desc=冷却一块热纳夸达锭。
+gregtech.advancement.ludicrous_voltage.66_naquadah_coil.desc=制造一个纳夸达线圈方块。
+gregtech.veins.ore.naquadah=纳夸达矿脉
+item.gt.comb.naquadah.name=纳夸达蜂窝
+item.gt.comb.naquadria.name=超能纳夸达蜂窝
+
+
+# ULV Cover
+metaitem.electric.pump.ulv.name=§8ULV§r电动泵
+metaitem.electric.pump.ulv.tooltip=320 L/秒 (作覆盖版时)
+
+metaitem.conveyor.module.ulv.name=§8ULV§r传送带
+metaitem.conveyor.module.ulv.tooltip=4 物品/秒 (作覆盖版时)
+
+metaitem.electric.motor.ulv.name=§8ULV§r电动马达
+metaitem.electric.piston.ulv.name=§8ULV§r电动活塞
+
+metaitem.robot.arm.ulv.name=§8ULV§r机械臂
+metaitem.robot.arm.ulv.tooltip=作§f覆盖板§7时限制§f物品§7到特定数量，最高 4 物品/秒。
+
+metaitem.electric.pump.steam.name=蒸汽泵
+metaitem.electric.pump.steam.tooltip=320 L/秒 (作覆盖版时)
+
+metaitem.conveyor.module.steam.name=蒸汽传送带
+metaitem.conveyor.module.steam.tooltip=4 物品/秒 (作覆盖版时)
+
+metaitem.electric.motor.steam.name=蒸汽马达
+metaitem.electric.piston.steam.name=蒸汽活塞
+
+metaitem.robot.arm.steam.name=蒸汽机械臂
+metaitem.robot.arm.steam.tooltip=作§f覆盖板§7时限制§f物品§7到特定数量，最高 4 物品/秒。
